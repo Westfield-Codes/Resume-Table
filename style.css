@@ -1,0 +1,15 @@
+table, tr, th, td {
+  border: 0;
+}
+
+table {
+  width:90%;
+}
+
+tr {
+    padding:5px;
+}
+
+th {
+  text-align:left;
+}
