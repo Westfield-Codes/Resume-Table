@@ -6,10 +6,19 @@ body {
   width:90%;
 }
 
+th {
+  vertical-align:top;
+}
+
 tr {
     padding:5px;
+    margin-bottom:1eml
 }
 
 th {
   text-align:left;
+}
+
+ul {
+	margin:0;
 }
